@@ -388,7 +388,7 @@ int main() {
     int choice;
 
     cout << "\n  ╔══════════════════════════════════════════╗\n";
-    cout << "  ║     Welcome to MyBank Banking System    ║\n";
+    cout << "  ║     Welcome to MyBank Banking System     ║\n";
     cout << "  ╚══════════════════════════════════════════╝\n";
 
     do {
